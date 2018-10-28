@@ -1,5 +1,5 @@
 Buisnes requirements
-~~~~~~~~~~~~~~~~~~~~~~~
+--------------------
 
 - assign limit
 - block card
